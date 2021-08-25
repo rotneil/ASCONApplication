@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Feb 11 16:27:52 WAT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-015a-2dc9-9ee2-000002e5bf50 
+on database directory C:\Users\Adesola\nehe\netBeansWorkspace\ASCONApplication\ascon with class loader sun.misc.Launcher$ExtClassLoader@692f5a6e 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_60/jre/lib/ext/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=C:\Users\Adesola\nehe\netBeansWorkspace\ASCONApplication
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
